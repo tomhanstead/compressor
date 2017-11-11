@@ -8,7 +8,6 @@ interface controllerInterface
 {
     function index();
     function uploadImage();
-    function compress($source, $destination, $quality);
 }
 
 ?>
